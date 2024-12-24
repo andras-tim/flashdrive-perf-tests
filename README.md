@@ -8,3 +8,6 @@
 
 ## SanDisk Extreme PRO [SSD, USB3.1, 128G]
 ![](./SanDisk%20Extreme%20PRO%20[SSD,%20USB3.1,%20128G].png)
+
+## SanDisk Ultra Dual Type - A, C [OTG, USB3.2Gen1, 128G]
+![](./SanDisk%20Ultra%20Dual%20type%20-%20A%2C%20C%20%5BOTG%2C%20USB3.2Gen1%2C%20128G%5D.png)
